@@ -1,0 +1,4 @@
+tt	tt	1000
+admin	admin	1000
+ww	ww	1000
+test	test	1000
